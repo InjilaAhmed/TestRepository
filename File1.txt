@@ -10,7 +10,8 @@ class File1 {
 	float b;
 	boolean h;
 	String c;
-		System.out.println("Bye world");
+	System.out.println("Bye world");
+	myMethod();
 	}
 
 }
