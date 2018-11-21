@@ -2,7 +2,7 @@ class File1 {
 	
 	public static void myMethod() {
 	System.out.println("My method");
-	some changes in the file
+	//some changes in the file
 
 }
 
