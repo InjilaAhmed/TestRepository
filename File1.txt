@@ -9,7 +9,8 @@ class File1 {
 	int a;
 	float b;
 	String c;
-		System.out.println("Bye world");
+	System.out.println("Bye world");
+	myMethod();
 	}
 
 }
